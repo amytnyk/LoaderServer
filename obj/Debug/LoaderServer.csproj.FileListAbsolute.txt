@@ -1,0 +1,11 @@
+C:\Users\alexm\source\repos\LoaderServer\LoaderServer\bin\Debug\LoaderServer.exe.config
+C:\Users\alexm\source\repos\LoaderServer\LoaderServer\bin\Debug\LoaderServer.exe
+C:\Users\alexm\source\repos\LoaderServer\LoaderServer\bin\Debug\LoaderServer.pdb
+C:\Users\alexm\source\repos\LoaderServer\LoaderServer\obj\Debug\LoaderServer.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\LoaderServer\LoaderServer\obj\Debug\LoaderServer.exe
+C:\Users\alexm\source\repos\LoaderServer\LoaderServer\obj\Debug\LoaderServer.pdb
+C:\Users\alexm\source\repos\LoaderServer\LoaderServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexm\source\repos\LoaderServer\LoaderServer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\alexm\source\repos\LoaderServer\LoaderServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexm\source\repos\LoaderServer\LoaderServer\obj\Debug\LoaderServer.csproj.CopyComplete
+C:\Users\alexm\source\repos\LoaderServer\LoaderServer\obj\Debug\LoaderServer.csprojAssemblyReference.cache
